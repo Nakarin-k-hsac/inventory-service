@@ -5,15 +5,13 @@ Backend service สำหรับระบบจัดการสินค้�
 พัฒนาโดยใช้ Node.js, Express, MongoDB
 
 # Tech Stack
-•	Node.js
+- Node.js
 
-•	Express.js
+- Express.js
 
-•	MongoDB (Mongoose)
+- MongoDB (Mongoose)
 
-•	JWT Authentication
-
-•	RESTful API
+- RESTful API
 
 # Installation
 
